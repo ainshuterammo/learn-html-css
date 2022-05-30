@@ -40,7 +40,7 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  
+
 }
 
 .main-box > div {
@@ -65,4 +65,3 @@ main {
   height: 40px;
   margin: 10px;
 }
-
